@@ -7,5 +7,6 @@ public class Main{
         NumberFormat percent= NumberFormat.getPercentInstance();
         String result = percent.format(0.1);
         System.out.println(result);
+        
     }
 }
